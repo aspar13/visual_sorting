@@ -1,4 +1,4 @@
-# visual_sorting_algo-
+# visual_sorting
 Visualization of different sorting algorithms like:
 ```
 bogo sort
